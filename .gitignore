@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+output/*
+!output/.gitkeep
+submission/
+*.mp4
+*.log
+
